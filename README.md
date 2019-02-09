@@ -36,6 +36,11 @@ With this app you can ask Snips for a random funny saying or multiple in a row.
 - *Gib mir einen Spruch.*
 - [...]
 
+#### Starte Session
+
+- *Starte verdrehte Sprüche.*
+- *Erzähle verdrehte Sprüche.*
+
 #### Next Idiom
 
 - *Nächster Spruch.*
