@@ -1,5 +1,5 @@
-# Snips-DatumUhrzeit 🕑
-A date and time app for Snips.ai
+# Snips-Sprüche 🥴
+A patter app for Snips.ai
 
 ## Installation
 
@@ -8,7 +8,7 @@ already configured and running on your device. [SAM](https://snips.gitbook.io/ge
 also already be set up and connected to your device and your account.
 
 1. In the German [app store](https://console.snips.ai/) add the
-app `Datum & Uhrzeit` (by domi; [this](https://console.snips.ai/app-editor/bundle_9P346QWA0xE)) to
+app `Verdrehte Sprüche` (by BastiN; [this](https://console.snips.ai/app-editor/bundle_9P346QWA0xE)) to
 your *German* assistant.
 
 2. If you already have the same assistant on your platform, update it
@@ -26,50 +26,34 @@ That's it!
 
 ## Usage
 
-With this app you can ask Snips for information about the date and the time, including the day of the week,
-and some others.
+With this app you can ask Snips for a random funny saying or multiple in a row.
 
 ### Example sentences
 
-#### Current date
+#### Random Idiom
 
-- *Was für ein Tag ist heute?*
-- *Sage den heutigen Tag.*
-- *Den wievielten haben wir heute?*
-- *Was ist das aktuelle Datum?*
-- *Ist schon Wochenende?*
+- *Verdrehe einen Spruch.*
+- *Gib mir einen Spruch.*
 - [...]
 
-#### Current time
+#### Next Idiom
 
-- *Kannst du mir die Uhrzeit verraten?*
-- *Wie spät ist es?*
-- *Sag mir die Zeit*
-- *Ich wüsste gerne, wie spät es ist.*
-- *Ich muss gleich los, wie spät ist es?
-- *Bitte sage mir, wie spät es ist.*
+- *Nächster Spruch.*
+- *Noch einen.*
+- *Immer her damit.*
+- *Ja.*
 - [...]
 
-#### Week number
+#### Stop
 
-- *Welche Wochennummer haben wir heute?*
-- *Welche Woche ist am 1. Januar 2019?*
-- *Die Wochennummer für den 24. Dezember.*
-- *Sage mir die Kalenderwoche vom 2. Juli.*
-- *Welche kalenderwoche ist der 18.05.?*
-- *Was ist die Kalenderwoche vom 19. März 2016?*
-- [...]
-
-#### Date info
-
-- *Sage die aktuelle Minute.*
-- *Was sind die aktuellen Stunden?*
-- *In welchem Jahr sind wir?*
-- *Was für ein Tag der Woche ist heute?*
+- *Halt.*
+- *Stop.*
+- *Ich kann nicht mehr.*
+- *Nein.*
 - [...]
 
 ## Contribution
 
 Please report errors (you can see them with `sam service log`) and bugs by
-opening a [new issue](https://github.com/MrJohnZoidberg/Snips-DatumUhrzeit/issues/new).
-You can also write other ideas for this skill. Thank you for your contribution.
+opening a [new issue](https://github.com/DasBasti/Snips-Sprueche/issues/new).
+You can also write other idioms/quotes/sayings for this skill. Thank you for your contribution.
